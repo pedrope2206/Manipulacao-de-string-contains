@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.exe
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.deps.json
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.runtimeconfig.json
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.runtimeconfig.dev.json
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ref\ContaisTarefa.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\bin\Debug\net5.0\ContaisTarefa.pdb
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.AssemblyInfo.cs
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ref\ContaisTarefa.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.pdb
+C:\projetos\ams\1ano\TratamentoDeTexto\ContaisTarefa\obj\Debug\net5.0\ContaisTarefa.genruntimeconfig.cache
